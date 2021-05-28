@@ -25,3 +25,7 @@ This application consists of API call for Contact us using Alamofire pod. App is
 - Application contains app icon as well as splash screen
 - Data fetched from API is displayed on custom cell using custom labels.
 - App is functional, free and ready to use.
+
+## Application ScreenShots
+
+[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-05-28-at-21-21-37.png](https://i.postimg.cc/J4vDt6zr/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-05-28-at-21-21-37.png)](https://postimg.cc/w75TGkNZ)
