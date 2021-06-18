@@ -28,4 +28,4 @@ This application consists of API call for Contact us using Alamofire pod. App is
 
 ## Application ScreenShots
 
-[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-05-28-at-21-21-37.png](https://i.postimg.cc/J4vDt6zr/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-05-28-at-21-21-37.png)](https://postimg.cc/w75TGkNZ)
+[![Main-Page.png](https://i.postimg.cc/nLNRqD2V/Main-Page.png)](https://postimg.cc/B8cB0tRR)
