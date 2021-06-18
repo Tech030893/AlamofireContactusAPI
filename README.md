@@ -3,7 +3,7 @@
 This application consists of API call for Contact us using Alamofire pod. App is created programmatically as well as using storyboard.
 
 ## Programming language used
-- Swift
+- Swift 5
 
 ## Deployment Info
 - iOS 14.3
